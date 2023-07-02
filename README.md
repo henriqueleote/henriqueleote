@@ -27,16 +27,9 @@ I'm a passionate software developer based in Vienna, Austria 🇦🇹, originall
 
 ## Experience
 
-- Internship: I had the opportunity to work as an intern in the Department Unit of a university, where I gained valuable experience in [specific tasks or projects you worked on]. This experience allowed me to apply my skills in a professional setting and collaborate with a diverse team.
+- Internship: I had the opportunity to work as an intern in the IT department of an university, where I gained valuable experience in web development and overall work environment. This experience allowed me to apply my skills in a professional setting and collaborate with a diverse team.
 
-- Freelance Projects: I have also worked on numerous freelance projects, collaborating with clients to deliver high-quality solutions. These projects have ranged from [describe the type of projects or industries you have worked on]. Working as a freelancer has provided me with the opportunity to enhance my problem-solving skills, work independently, and deliver results that meet clients' expectations.
-
-## Projects and Contributions
-
-- Check out my repositories to explore some of my coding projects and contributions. These projects include both personal endeavors and collaborative efforts. Feel free to explore the repositories and delve into the code to get a better understanding of my coding style and approach.
-
-- I'm also actively involved in contributing to open-source projects. You can find my contributions in the "Contributions" section of my profile. Contributing to open source allows me to give back to the community and collaborate with talented developers from around the world.
-
+- Freelance Projects: I have also worked on numerous freelance projects, collaborating with clients to deliver high-quality solutions. These projects have ranged from Car rental systems, Restaurant management systems and Food ordering systems. Working as a freelancer has provided me with the opportunity to enhance my problem-solving skills, work independently, and deliver results that meet clients' expectations.
 
 ## Projects and Contributions
 
