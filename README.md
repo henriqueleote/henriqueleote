@@ -17,17 +17,31 @@ I'm a passionate software developer based in Vienna, Austria 🇦🇹, originall
 
 - 🔍 My main focus is web and mobile development, but over the past few weeks, I have been exploring the world of Telegram bot development using Python. This new venture aims to enhance my lifestyle and broaden my skill set.
 
+- 🎨 I love to travel to different cultures, as I've explored most of Europe. Love to play sports, hang out with friends and watch movies. Also, development wouldn't be possible without Music 🎵.
+
 ## Get in Touch
 
 - 📫 You can reach me via[email](mailto:henriqueleote@outlook.com). I'm always open to connecting with fellow developers, collaborating on projects, or simply engaging in tech-related discussions.
 
 - 💼 To learn more about my professional background and experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/henriqueleote/). Let's connect and explore potential opportunities together!
 
+## Experience
+
+- Internship: I had the opportunity to work as an intern in the Department Unit of a university, where I gained valuable experience in [specific tasks or projects you worked on]. This experience allowed me to apply my skills in a professional setting and collaborate with a diverse team.
+
+- Freelance Projects: I have also worked on numerous freelance projects, collaborating with clients to deliver high-quality solutions. These projects have ranged from [describe the type of projects or industries you have worked on]. Working as a freelancer has provided me with the opportunity to enhance my problem-solving skills, work independently, and deliver results that meet clients' expectations.
+
 ## Projects and Contributions
 
-- 🚀 Check out my repositories to explore some of my coding projects and contributions. I have a wide range of public repositories with cool projects that showcase my skills and interests in software development.
+- Check out my repositories to explore some of my coding projects and contributions. These projects include both personal endeavors and collaborative efforts. Feel free to explore the repositories and delve into the code to get a better understanding of my coding style and approach.
 
-- ❤️ I'm an advocate for open-source software and love contributing to meaningful projects. You can find some of my contributions in the "Contributions" section of my profile.
+- I'm also actively involved in contributing to open-source projects. You can find my contributions in the "Contributions" section of my profile. Contributing to open source allows me to give back to the community and collaborate with talented developers from around the world.
+
+
+## Projects and Contributions
+
+- 🚀 Check out my repositories to explore some of my coding projects and contributions. These projects include both personal endeavors and collaborative efforts. Feel free to explore the repositories and delve into the code to get a better understanding of my coding style and approach.
+
 
 Thank you for visiting my GitHub profile! Feel free to reach out to me, and let's connect and create amazing things together! 🌟
 
