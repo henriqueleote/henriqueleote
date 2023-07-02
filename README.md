@@ -21,7 +21,7 @@ I'm a passionate software developer based in Vienna, Austria 🇦🇹, originall
 
 ## Get in Touch
 
-- 📫 You can reach me via[email](mailto:henriqueleote@outlook.com). I'm always open to connecting with fellow developers, collaborating on projects, or simply engaging in tech-related discussions.
+- 📫 You can reach me via [email](mailto:henriqueleote@outlook.com). I'm always open to connecting with fellow developers, collaborating on projects, or simply engaging in tech-related discussions.
 
 - 💼 To learn more about my professional background and experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/henriqueleote/). Let's connect and explore potential opportunities together!
 
