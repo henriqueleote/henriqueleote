@@ -1,6 +1,18 @@
 # Hi there, I'm Henrique! 👋
 
-I'm a passionate software developer based in Vienna, Austria 🇦🇹, originally from Lisbon, Portugal 🇵🇹. Currently, I work as a software developer at Papyrus Software in Austria 🇦🇹, where I get to work on exciting projects and collaborate with talented teams.
+Passionate Software Developer in Vienna 🇦🇹 | HTML, CSS, JavaScript, ReactJS, React Native, C/C++, Python, and More!
+
+I am a software developer with a diverse skill set and a strong background in HTML, CSS, Java, JavaScript, ReactJS, React Native, C, C++, Python Web design, Adobe XD, Figma, Photoshop, After Effects, Sony Vegas, Premiere Pro and more.
+
+Originally from Lisbon, Portugal 🇵🇹, I have brought my expertise and enthusiasm to Papyrus Software in Austria 🇦🇹, where I work as a software developer on exciting projects. Collaborating with talented teams, I thrive on the opportunity to contribute my skills and knowledge to create innovative and high-quality solutions.
+
+With a solid understanding of web development technologies such as HTML, CSS, and JavaScript, I excel in crafting visually stunning and responsive websites. My proficiency in frameworks like ReactJS and React Native enables me to develop cross-platform applications that deliver outstanding user experiences.
+
+Furthermore, my expertise extends to programming languages such as C, C++, and Python, allowing me to develop efficient and robust software solutions. I also bring a creative touch to my work with skills in web design, utilizing tools like Photoshop to create captivating user interfaces.
+
+In addition to my technical skills, I have experience working with multimedia editing tools such as After Effects, Sony Vegas, and Premiere Pro. This enables me to incorporate dynamic visuals and captivating effects into my projects, elevating the overall user experience.
+
+If you're seeking a dedicated software developer who is passionate about delivering exceptional results, I am here to bring your ideas to life. Let's collaborate and create software solutions that exceed your expectations!
 
 ## Background and Education
 
