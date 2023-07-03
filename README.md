@@ -5,7 +5,7 @@ I'm a passionate software developer based in Vienna, Austria 🇦🇹, originall
 ## Background and Education
 
 - 🎓 I have a high school diploma in Management and Programming of Computer Systems, with a focus on software development and computer systems.
-- 🎓 I was on the Senior year of a Bachelor's degree in Computer Science when I decided to move out of Portugal 🇦🇹 to persue a professional career with my know-how.
+- 🎓 I was on the Senior year of a Bachelor's degree in Computer Science when I decided to move out of Portugal 🇦🇹 to pursue a professional career with my know-how.
 
 ## About Me
 
