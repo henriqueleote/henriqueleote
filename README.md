@@ -50,6 +50,9 @@ If you're seeking a dedicated software developer who is passionate about deliver
 
 Thank you for visiting my GitHub profile! Feel free to reach out to me, and let's connect and create amazing things together! 🌟
 
+## :fire: My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henriqueleote&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 
 <!--
 **henriqueleote/henriqueleote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
