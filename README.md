@@ -1,5 +1,7 @@
 # Hi there, I'm Henrique! 👋
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,vite,angular,js,html,css,bootstrap,java,py,php,c,cs,cpp,firebase,mysql,mongodb,linux,androidstudio,atom,ae,ps,pr,xd,unity,blender)](https://skillicons.dev)
+
 Passionate Software Developer in Vienna 🇦🇹 | HTML, CSS, JavaScript, ReactJS, React Native, C/C++, Python, and More!
 
 I am a software developer with a diverse skill set and a strong background in HTML, CSS, Java, JavaScript, ReactJS, React Native, C, C++, Python Web design, Adobe XD, Figma, Photoshop, After Effects, Sony Vegas, Premiere Pro and more.
@@ -50,8 +52,7 @@ If you're seeking a dedicated software developer who is passionate about deliver
 
 Thank you for visiting my GitHub profile! Feel free to reach out to me, and let's connect and create amazing things together! 🌟
 
-## :fire: My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henriqueleote&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<!-- ## :fire: My Stats -->
 
 
 <!--
