@@ -1,6 +1,6 @@
 # Hi there, I'm Henrique! 👋
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,vite,angular,js,html,css,bootstrap,java,py,php,c,cs,cpp,firebase,mysql,mongodb,linux,androidstudio,atom,ae,ps,pr,xd,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vite,angular,ts,js,html,css,bootstrap,java,py,php,c,cs,cpp,firebase,mysql,mongodb,linux,androidstudio,atom,ae,ps,pr,xd,unity,blender)](https://skillicons.dev)
 
 Passionate Software Developer in Vienna 🇦🇹 | HTML, CSS, JavaScript, ReactJS, React Native, C/C++, Python, and More!
 
