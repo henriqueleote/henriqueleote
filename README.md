@@ -45,6 +45,8 @@ If you're seeking a dedicated software developer who is passionate about deliver
 
 - Freelance Projects: I have also worked on numerous freelance projects, collaborating with clients to deliver high-quality solutions. These projects have ranged from Car rental systems, Restaurant management systems and Food ordering systems. Working as a freelancer has provided me with the opportunity to enhance my problem-solving skills, work independently, and deliver results that meet clients' expectations.
 
+- Current situation: I'm currently (since March 2023) working in Vienna, Austria as a full-time Full-stack and software developer.
+
 ## Projects and Contributions
 
 - 🚀 Check out my repositories to explore some of my coding projects and contributions. These projects include both personal endeavors and collaborative efforts. Feel free to explore the repositories and delve into the code to get a better understanding of my coding style and approach.
